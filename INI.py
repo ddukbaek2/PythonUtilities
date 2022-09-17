@@ -1,4 +1,4 @@
-﻿######################################################################
+######################################################################
 # @ 임포트.
 ######################################################################
 import os.path
@@ -297,4 +297,4 @@ if __name__ == "__main__":
 	argumentParser.add_argument("-min", "--modify-item-name", type = str, help = "modify item name", default = "")
 	argumentParser.add_argument("-miv", "--modify-item-value", type = str, help = "modify item value", default = "")
 	arguments = argumentParser.parse_args()
-	OnMain(arguments) # sys.argv
+	OnMain(arguments)
