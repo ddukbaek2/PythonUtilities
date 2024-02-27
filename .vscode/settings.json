@@ -1,0 +1,11 @@
+{
+    "python.defaultInterpreterPath": "C:/Program Files (x86)/Microsoft Visual Studio/Shared/Python39_64",
+    "python.autoComplete.extraPaths": [
+        "C:/Program Files (x86)/Microsoft Visual Studio/Shared/Python39_64",
+    ],
+    "python.analysis.extraPaths": [
+        "C:/Program Files (x86)/Microsoft Visual Studio/Shared/Python39_64",
+    ],
+    "editor.insertSpaces": false,
+    "editor.tabSize": 4
+}
